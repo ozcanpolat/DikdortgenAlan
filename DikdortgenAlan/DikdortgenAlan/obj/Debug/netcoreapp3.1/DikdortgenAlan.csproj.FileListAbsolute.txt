@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\bin\Debug\netcoreapp3.1\DikdortgenAlan.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\bin\Debug\netcoreapp3.1\DikdortgenAlan.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\bin\Debug\netcoreapp3.1\DikdortgenAlan.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\bin\Debug\netcoreapp3.1\DikdortgenAlan.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\bin\Debug\netcoreapp3.1\DikdortgenAlan.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\bin\Debug\netcoreapp3.1\DikdortgenAlan.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\obj\Debug\netcoreapp3.1\DikdortgenAlan.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\obj\Debug\netcoreapp3.1\DikdortgenAlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\obj\Debug\netcoreapp3.1\DikdortgenAlan.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\obj\Debug\netcoreapp3.1\DikdortgenAlan.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\obj\Debug\netcoreapp3.1\DikdortgenAlan.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\obj\Debug\netcoreapp3.1\DikdortgenAlan.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\obj\Debug\netcoreapp3.1\DikdortgenAlan.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\DikdortgenAlan\DikdortgenAlan\obj\Debug\netcoreapp3.1\DikdortgenAlan.genruntimeconfig.cache
